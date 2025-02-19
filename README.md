@@ -45,6 +45,18 @@
 
 ---
 
+### 🎨 Personal Projects
+
+1. **Mówię Wam - Centrum Terapeutyczno - Logopedyczne**  
+   This is a freelance project for a speech therapy center website, developed using Angular. The website is intended to help clients book appointments and explore available therapy services.  
+   **Status:** In progress – Currently working on it.
+
+2. **Hotel Manager**  
+   This project is a semester assignment for the Object-Oriented Programming course at Kielce University of Technology. It focuses on building a hotel management system using Java, Spring Boot, PostgreSQL, and Angular. The system allows hotel managers to manage rooms, reservations, guest details, and billing.  
+   **Status:** Completed – Finalized as a part of university coursework.
+
+---
+
 ### 📜 Certifications  
 - 📜 **Microsoft Exam 480**: HTML5, JavaScript, CSS3  
 
