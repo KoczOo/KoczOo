@@ -47,13 +47,19 @@
 
 ### 🎨 Personal Projects
 
-1. **Mówię Wam - Centrum Terapeutyczno - Logopedyczne**  
+1. **Mówię Wam - Centrum Terapeutyczno - Logopedyczne**
+     
    This is a freelance project for a speech therapy center website, developed using Angular. The website is intended to help clients book appointments and explore available therapy services.  
    **Status:** In progress – Currently working on it.
 
-2. **Hotel Manager**  
+3. **Hotel Manager**
+     
    This project is a semester assignment for the Object-Oriented Programming course at Kielce University of Technology. It focuses on building a hotel management system using Java, Spring Boot, PostgreSQL, and Angular. The system allows hotel managers to manage rooms, reservations, guest details, and billing.  
    **Status:** Completed – Finalized as a part of university coursework.
+
+4. **Gooner News!**
+
+   This project is a Vue 3 + TypeScript web application integrated with Firebase Firestore for managing articles. It includes user authentication, article creation, updating, and dynamic content rendering using Pinia for state management and Vue Router for navigation. The      admin panel allows users to manage articles efficiently with a clean and responsive UI powered by Vuetify. Firestore queries ensure real-time updates, and Vue Toast Notifications provide user feedback.
 
 ---
 
@@ -65,6 +71,8 @@
 ### 📚 Currently Learning:
 
 - Angular 19+ features
+- Vue 3 features
+- Firebase
 - Advanced CSS
 - Jest/Karma testing
 - Everything else, I never stop learning!
