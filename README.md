@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🚀 Frontend Developer | 🅰️ Angular Enthusiast | 🎨 UI/UX Passionate  
+  🚀 Frontend Developer | 🅰️ Angular and 🖖 Vue Enthusiast | 🎨 UI/UX Passionate  
 </p>
 
 ---
